@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "item": "Milk",
+      "quantity": "1",
+      "category": "Dairy"
+    },
+    {
+      "id": 2,
+      "item": "Eggs",
+      "quantity": "1",
+      "category": "Dairy"
+    },
+    {
+      "id": 3,
+      "item": "Bread",
+      "quantity": "2",
+      "category": "Bakery"
+    },
+    {
+      "id": 4,
+      "item": "Apples",
+      "quantity": "5",
+      "category": "Produce"
+    },
+    {
+      "id": 5,
+      "item": "Chicken Breast",
+      "quantity": "2",
+      "category": "Meat"
+    },
+    {
+      "id": 6,
+      "item": "Spinach",
+      "quantity": "1",
+      "category": "Produce"
+    }
+  ]
+  
